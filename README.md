@@ -46,4 +46,3 @@ Vikas Vikram Singh - VS
 K. Sreenadh - KS
 Amitabha Tripathi - AT
 Viswanathan Puthan Veedu - VP
-![image](https://github.com/MathSoc-IITD/MT-PastPapersArchive/assets/148934813/de47d5b8-576c-4ba8-bacb-be681b99401b)
