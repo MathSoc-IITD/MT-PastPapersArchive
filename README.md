@@ -1,6 +1,6 @@
 # MT-PastPapersArchive
 
-Use this format to name your files : <CourseCode>_<Year%100><S,F>_<ProfCode>_<m,M,q,T><i> 
+Use this format to name your files : ```<CourseCode>_<Year%100><S,F>_<ProfCode>_<m,M,q,T><i>```
 
 S - Spring
 F - Fall
@@ -14,6 +14,7 @@ i - Index of tutorial, quiz, minor
 For example, the 2nd quiz of MTL106 in 2022 Fall taught by Prof. Dharmaraja should be named : "MTL106_22F_SD_q2.pdf"
 
 # Professor Codes to be used
+
 Biplab Basak - BB
 Niladri Chatterjee - NC
 Aparajita Dasgupta - AD
